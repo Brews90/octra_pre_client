@@ -1,5 +1,5 @@
 {
-  "priv": "private key here",
-  "addr": "octxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "priv": "3aa9a2ff123d76f792b58bbcea6889c6810e9b582ebcea6cebc25b963f1c138e",
+  "addr": "oct9LLDrgtgFPrwyzvVJPYt1i9dzC5yejaBnkZtdpGipJAm",
   "rpc": "https://octra.network"
 }
